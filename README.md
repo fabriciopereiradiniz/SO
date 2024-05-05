@@ -1,8 +1,20 @@
-# Trip OS
+<p align="center">
+  <img src="https://i.imgur.com/xnhjM7o.gif" alt="OS" />
+</p>
 
-| ![os]([https://i.imgur.com/1jZRPKp.gif](https://i.imgur.com/Jh84bGW.gif)) | Este projeto foi realizado para a matéria de "Sistemas Operacionais".. |
-|---|---|
-Repositório para o projeto de Sistemas Operacionais.
-O seguinte repositório será utilizado para criação e manutenção de um sistema operacional, o desenvolvimento terá sua base nos seguintes tutoriais: https://www.youtube.com/watch?v=Jws7BHrts6g&list=PLsoiO2Be-2z8BfsSkspJfDiuKeC9-LSca&index=2
+TripOS é um sistema operacional basico desenvolvido utilizando assembly para a matéria de sistemas operacionais, o desenvolvimento do mesmo só foi possível graças ao canal [Tutorial KiddieOS](https://www.youtube.com/watch?v=Jws7BHrts6g&list=PLsoiO2Be-2z8BfsSkspJfDiuKeC9-LSca&index=2).
 
-- Foi adicionado a primeira ISO do S.O onde é possível visualizar a tela inicial do programa.
+## Execução do SO
+
+Para execução do tripOS será necessário os seguintes itens:
+- NASM para conversão do `.asm` para `.bin`
+- FergoRaw utilizado para inserir os arquivos binários em diferentes partições realizando a conversão para `.img`
+- Rufus ou outro builder de `.img` para `.iso` de sua preferência
+> Quer apenas executar o os? Basta apenas bootar o `boot.iso` utilizando Rufus no seu pendrive.
+
+## Implementações atuais
+
+- Tela inicial
+- Interface gráfica com borda
+- Interface gráfica borderless window
+- Lib's para monitor/wmemory
