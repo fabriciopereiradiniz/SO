@@ -1,8 +1,3 @@
-;====================================
-; LukaOS - Monitor Library Routines
-; Created by Luka
-; Version 1.0.0
-; ===================================
 
 %IFNDEF __MONITOR_LIB__
 %DEFINE __MONITOR_LIB__
