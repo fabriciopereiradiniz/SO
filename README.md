@@ -1,7 +1,7 @@
 #### _Read this in other languages_
 
 <kbd>[<img title="English" alt="English" src="https://i.imgur.com/K0sBZSD.png" width="22">](README.md)</kbd>
-<kbd>[<img title="Portuguese" alt="Brazillian portuguese" src="https://i.imgur.com/MZMUUJ6.png" width="22">](README-PTBR.md)</kbd>
+<kbd>[<img title="Portuguese" alt="Brazillian portuguese" src="https://i.imgur.com/MZMUUJ6.png" width="22">](translations/README-PTBR.md)</kbd>
 
 <p align="center">
   <img src="https://i.imgur.com/xnhjM7o.gif" alt="OS" />
