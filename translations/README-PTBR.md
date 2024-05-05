@@ -1,6 +1,6 @@
 #### _Leia em outras línguas_
 
-<kbd>[<img title="Inglês" alt="Inglês" src="https://i.imgur.com/K0sBZSD.png" width="22">](README.md)</kbd>
+<kbd>[<img title="Inglês" alt="Inglês" src="https://i.imgur.com/K0sBZSD.png" width="22">](/README.md)</kbd>
 <kbd>[<img title="Português" alt="Português brasileiro" src="https://i.imgur.com/MZMUUJ6.png" width="22">](README-PTBR.md)</kbd>
 
 <p align="center">
@@ -37,4 +37,4 @@ Para execução do tripOS será necessário os seguintes itens:
 - Tela inicial <a><img alt="checked" src="https://cdn3.emoji.gg/emojis/4562_AlienPls.gif" width="12"></a>
 - Interface gráfica com borda <a><img alt="checked" src="https://cdn3.emoji.gg/emojis/4562_AlienPls.gif" width="12"></a>
 - Interface gráfica borderless window <a><img alt="checked" src="https://cdn3.emoji.gg/emojis/4562_AlienPls.gif" width="12"></a>
-- Lib's para monitor/wmemory <a><img alt="checked" src="https://cdn3.emoji.gg/emojis/4562_AlienPls.gif" width="12"></a>
+- Libs para monitor/wmemory <a><img alt="checked" src="https://cdn3.emoji.gg/emojis/4562_AlienPls.gif" width="12"></a>
