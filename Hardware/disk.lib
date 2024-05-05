@@ -1,9 +1,3 @@
-;====================================
-; LukaOS - Disk Library Routines
-; Created by Luka
-; Version 1.0.0
-; ===================================
-
 
 %IFNDEF __DISKLIB__
 %DEFINE __DISK_LIB__
