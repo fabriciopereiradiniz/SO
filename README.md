@@ -40,6 +40,26 @@ To execute tripOS you need this:
 - Graphic Interface (borderless) <a><img alt="checked" src="https://cdn3.emoji.gg/emojis/4562_AlienPls.gif" width="12"></a>
 - Monitor/wmemory lib's <a><img alt="checked" src="https://cdn3.emoji.gg/emojis/4562_AlienPls.gif" width="12"></a>
 
+### How to install and configure your VM
+
+Open your VM.
+
+Press CRTL + N.
+
+CHOOSE YOUR VM NAME/FOLDERS.
+
+<p align="center">
+  <img src="https://i.imgur.com/19b1kej.png" alt="OS" />
+</p>
+
+CHANGE THE VALUES IF NEEDED
+
+CHOOSE: "use an existing virtual hard disk file", AND USE THE o `usb.vmdk`.
+
+<p align="center">
+  <img src="https://i.imgur.com/gklLM5i.png" alt="OS" />
+</p>
+
 ### Classes 
 
 ### 01
