@@ -24,9 +24,9 @@ To execute tripOS you need this:
 <details>
 <summary>Need some help?</summary>
 <tr>
-  <td><a href="https://www.nasm.us/index.php"><img alt="NASM" src="https://www.nasm.us/images/nasm.png" width="25"></a></td>
-  <td><a href="https://rufus.ie/pt_BR/"><img alt="Rufus" src="https://rufus.ie/pics/rufus-128.png" width="25"></a></td>
-  <td><a href="https://www.fergonez.net/softwares/fraw"><img alt="Fergoraw" src="https://images.gofreedownload.net/hardware-floppy-34989.jpg" width="25"></a></td>
+  <td>Link to NASM: <a href="https://www.nasm.us/index.php"><img alt="NASM" src="https://www.nasm.us/images/nasm.png" width="25"></a></td>
+  <td>Link to RUFUS: <a href="https://rufus.ie/pt_BR/"><img alt="Rufus" src="https://rufus.ie/pics/rufus-128.png" width="25"></a></td>
+  <td>Link to FERGORAW: <a href="https://www.fergonez.net/softwares/fraw"><img alt="Fergoraw" src="https://images.gofreedownload.net/hardware-floppy-34989.jpg" width="25"></a></td>
 </tr>
 </details>
 <div align="right">
