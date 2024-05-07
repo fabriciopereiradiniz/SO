@@ -39,3 +39,14 @@ To execute tripOS you need this:
 - Graphic Interface (border) <a><img alt="checked" src="https://cdn3.emoji.gg/emojis/4562_AlienPls.gif" width="12"></a>
 - Graphic Interface (borderless) <a><img alt="checked" src="https://cdn3.emoji.gg/emojis/4562_AlienPls.gif" width="12"></a>
 - Monitor/wmemory lib's <a><img alt="checked" src="https://cdn3.emoji.gg/emojis/4562_AlienPls.gif" width="12"></a>
+
+### Classes 
+
+### 01
+In the first class, we began by downloading NASM, Fergo Raw, and Rufus 3.9. Then, we installed NASM, initiated Rufus 3.9, and extracted the Fergo Raw zip file. However, we encountered an issue when trying to open the extracted file due to a missing or invalid component, "MSCOMCTL.OCX". Although a solution using a virtual machine was suggested, it remains unresolved. After resolving this issue in the future, we configured environment variables, organized OS files into directories, created a BAT file using Notepad++, and learned to assemble .ASM files with NASM.
+
+### 02
+In the second class, we solved the initial issue with Fergo Raw by installing a missing library and activating an ActiveX control. Subsequently, we encountered a new error related to "COMDLG32.OCX", which was resolved similarly to the previous issue. Both solutions involved installing necessary files and registering them using specific commands.
+
+### 03
+In the third class, we continued by installing compatible versions of Rufus and VirtualBox, configuring the virtual machine to recognize the USB drive, creating an initial boot.asm code, and using FergoRaw to create a bootable image file named System. Finally, we used Rufus to transfer this image to the USB drive. The process involved creating a virtual machine in VirtualBox with specific settings and executing the bootable image, resulting in the display of "Hello World" messages.
