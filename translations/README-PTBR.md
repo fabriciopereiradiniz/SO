@@ -52,6 +52,19 @@ Quando chegar na parte de disco virutal, selecione "use an existing virtual hard
   <img src="https://i.imgur.com/gklLM5i.png" alt="OS" />
 </p>
 
+### Importante: FERGORAW
+1 - Configure nos seus arquivos os setores como dito pelo kiddieOs
+<br>
+2 - Coloque a partir do primeiro setor o seu boot
+<br>
+3 - Coloque a partir do terceiro setor o seu kernel
+<br>
+4 - Coloque a partir do quinto setor o seu window
+
+<p align="center">
+  <img src="https://i.imgur.com/HBFVnTH.png" alt="OS" />
+</p>
+
 ## Implementações atuais
 
 - Tela inicial <a><img alt="checked" src="https://cdn3.emoji.gg/emojis/4562_AlienPls.gif" width="12"></a>
