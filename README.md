@@ -13,7 +13,7 @@ _TripOS is a basic operating system developed using assembly language for the Op
 
 To execute tripOS you need this:
 - NASM to convert `.asm` to `.bin`
-- FergoRaw to manipulate binary files into `.img` (update your dlls!)
+- FergoRaw to manipulate binary files into `.img` (update your dlls! -> "MSCOMCTL.OCX")
 - Rufus or other iso builder to convert `.img` to `.iso` 
 <br>
 
