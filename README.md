@@ -7,7 +7,8 @@
   <img src="https://i.imgur.com/xnhjM7o.gif" alt="OS" />
 </p>
 
-_TripOS is a basic operating system developed using assembly language for the Operating Systems course. Its development was made possible thanks to the [KiddieOS Tutorial](https://www.youtube.com/watch?v=Jws7BHrts6g&list=PLsoiO2Be-2z8BfsSkspJfDiuKeC9-LSca&index=2) channel._
+_TripOS is a basic operating system developed using assembly language for the Operating Systems course. Its development was made possible thanks to the [KiddieOS Tutorial](https://www.youtube.com/watch?v=Jws7BHrts6g&list=PLsoiO2Be-2z8BfsSkspJfDiuKeC9-LSca&index=2) channel.
+To execute TripOS, you need several tools: NASM for converting .asm files to .bin, FergoRaw for manipulating binary files into .img format (with a note to update the necessary DLLs), and Rufus or another ISO builder to convert .img files to .iso format._
 
 ## OS Execution
 
