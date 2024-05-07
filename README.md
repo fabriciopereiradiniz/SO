@@ -60,6 +60,19 @@ CHOOSE: "use an existing virtual hard disk file", AND USE THE o `usb.vmdk`.
   <img src="https://i.imgur.com/gklLM5i.png" alt="OS" />
 </p>
 
+### Importante: FERGORAW
+1 - Config your sector
+<br>
+2 - boot in the first sector
+<br>
+3 - kernel in the third sector
+<br>
+4 - window in the fifth sector
+
+<p align="center">
+  <img src="https://i.imgur.com/HBFVnTH.png" alt="OS" />
+</p>
+
 ### Classes 
 
 ### 01
