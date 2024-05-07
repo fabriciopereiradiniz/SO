@@ -32,6 +32,26 @@ Para execução do tripOS será necessário os seguintes itens:
   <img src="https://i.imgur.com/9f0AnpO.gif" alt="window" width="150">
 </div>
 
+### Como configurar VM
+
+Abra o VirtualBox.
+
+Aperte Ctrl + N em seu teclado para criar uma nova máquina virtual.
+
+Escolha um nome e pasta para sua máquina, deixe sem imagem ISO, tipo escolha como outro e versão outro/desconhecido.
+
+<p align="center">
+  <img src="https://i.imgur.com/19b1kej.png" alt="OS" />
+</p>
+
+Deixe os valores padrões nos próximos passos.
+
+Quando chegar na parte de disco virutal, selecione "use an existing virtual hard disk file", clique no ícone da pasta ao lado e utilize o `usb.vmdk` gerado anteriormente.
+
+<p align="center">
+  <img src="https://i.imgur.com/gklLM5i.png" alt="OS" />
+</p>
+
 ## Implementações atuais
 
 - Tela inicial <a><img alt="checked" src="https://cdn3.emoji.gg/emojis/4562_AlienPls.gif" width="12"></a>
